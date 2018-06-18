@@ -26,4 +26,10 @@ The project will save time, cost of researchers who search intesively for long t
 The Project makes use of Deep Neural Networks, Tranfer Learning
 The project is part of a kaggle competition
 
+## Accuracy Graph
 
+![alt text](https://github.com/vijayPagi/MachineLearningCapstone/blob/master/accuracy.PNG)
+
+## Loss Graph
+
+![alt text](https://github.com/vijayPagi/MachineLearningCapstone/blob/master/Loss.png)
